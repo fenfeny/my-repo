@@ -1,0 +1,5 @@
+第一天学习
+安装了visual studio、
+创建了github第一个仓库
+下载了git
+下载了visual studio code
